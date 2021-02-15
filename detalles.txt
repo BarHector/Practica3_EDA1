@@ -1,0 +1,8 @@
+Hacer un arreglo de estructuras llamado “atletas” para máximo 10 atletas, en el que se solicite al usuario 
+los siguientes datos: nombre, país y número de medallas obtenidas.
+
+Cada que el usuario termine de proporcionar los datos de un atleta, se deberá preguntar si desea agregar 
+otro y si aún hay espacio, solicitar la información.
+
+Cuando el usuario llene el arreglo o ya no quiera agregar más atletas, se deberá imprimir en pantalla el 
+nombre, país y número de medallas del atleta que ha ganado el mayor número de preseas.
